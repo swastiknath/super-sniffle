@@ -16,7 +16,7 @@ We perfrom an Extract Transform Load Pipeline on a Log Dataset using Apache Cass
 - song title
 - userId
 
-The image below is a screenshot of what the denormalized data should appear like in the <font color=red>**event_datafile_new.csv**</font> after the code above is run:<br>
+The image below is a screenshot of what the denormalized data should appear like in the <font color=red>**event_datafile_new.csv**</font> as the ETL process progresses:<br>
 
 ![Dataset](https://github.com/swastiknath/super-sniffle/raw/master/image_of_cassandra_etl.jpeg)
 
